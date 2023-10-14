@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td valign="top" width="500px">
-			### - Learning :</br></br>
+			 <b>Learning:</b></br></br>
 			- 🍪 Java</br>
 			- 🍪 С++</br>
 			- 🍪 Python</br>
@@ -13,7 +13,7 @@
 			- 🍪 Data Science & Algorithms</br>
 		</td>
     <td valign="top" width="500px">	
-			### - Hobby :</br></br>
+			<b>Hobby:</b></br></br>
 			- 🤟I listen to heavy music</br>
 			- 📗 I like the books by Remarque and Ray Bradbury</br> 
 </td>
