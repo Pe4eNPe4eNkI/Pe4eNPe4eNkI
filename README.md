@@ -7,6 +7,7 @@
     <td valign="top" width="500px">
 			 <b>Learning:</b></br></br>
 			- 🍪 Java</br>
+			- 🍪 Flutter + Dart</br>
 			- 🍪 С++</br>
 			- 🍪 Python</br>
 			- 🍪 JS + React</br>
