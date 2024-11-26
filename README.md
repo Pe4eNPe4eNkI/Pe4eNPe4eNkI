@@ -1,16 +1,20 @@
 # Hi there, I'm [Arseniy](https://github.com/Pe4eNPe4eNkI/) 👋
 
-### - I'm 20 years old Backend developer.
+###  I'm 20 years old DevOps engineer.
+###  I'm studying at the MIPT network program
+###  I study at the Backend Academy in T-Bank
+###  Participant and winner of programming competitions (ICPC, Parma-UAF, RuCode)
 <br/>
 <table>
   <tr>
     <td valign="top" width="500px">
-			 <b>Learning:</b></br></br>
+			 <b>My skills:</b></br></br>
 			- 🍪 Java</br>
-			- 🍪 Flutter + Dart</br>
-			- 🍪 С++</br>
-			- 🍪 Python</br>
-			- 🍪 JS + React</br>
+			- 🍪 Gitlab CI</br>
+			- 🍪 Grafana</br>
+			- 🍪 Ansible roles</br>
+			- 🍪 Configuring VMs and Docker</br>
+			- 🍪 Python Scripts</br>
 			- 🍪 Data Science & Algorithms</br>
 		</td>
     <td valign="top" width="500px">	
