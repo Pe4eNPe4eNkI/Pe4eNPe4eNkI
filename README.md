@@ -1,6 +1,6 @@
 # Hi there, I'm [Arseniy](https://github.com/Pe4eNPe4eNkI/) 👋
 
-###  I'm 20 years old DevOps engineer.
+###  I'm 20 years old DevOps engineer/backend developer.
 ###  I'm studying at the MIPT network program
 ###  I study at the Backend Academy in T-Bank
 ###  Participant and winner of programming competitions (ICPC, Parma-UAF, RuCode)
