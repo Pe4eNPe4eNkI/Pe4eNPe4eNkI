@@ -25,7 +25,7 @@
   </tr>
 </table>
 <br/>
-
+ 
 ## My Stats
 
 <table>
