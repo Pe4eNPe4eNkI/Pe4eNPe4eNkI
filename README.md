@@ -16,7 +16,7 @@
 			- 🍪 Configuring VMs and Docker</br>
 			- 🍪 Python Scripts</br>
 			- 🍪 Data Science & Algorithms</br>
-		</td>
+		</td> 
     <td valign="top" width="500px">	
 			<b>Hobby:</b></br></br>
 			- 🤟I listen to heavy music</br>
