@@ -1,6 +1,6 @@
 # Hi there, I'm [Arseniy](https://github.com/Pe4eNPe4eNkI/) 👋
 
-###  I'm 21 years old Backend Developer/DevOps engineer.
+###  I'm 21 years old Java/Kotlin Developer
 ###  I'm studying at the MIPT network program
 ###  I study at the Backend Academy in T-Bank
 ###  Participant and winner of programming competitions (ICPC, Parma-UAF, RuCode)
@@ -9,12 +9,11 @@
   <tr>
     <td valign="top" width="500px">
 			 <b>My skills:</b></br></br>
-			- 🍪 Java Backend</br>
-			- 🍪 Gitlab CI</br>
-			- 🍪 Grafana</br>
-			- 🍪 Postgresql & Oracle</br>
+			- 🍪 Kotlin, Java</br>
+			- 🍪 Spring Boot</br>
+			- 🍪 K8s, Docker</br>
+			- 🍪 Kafka</br>
 			- 🍪 Configuring VMs and Docker</br>
-			- 🍪 Python Scripts</br>
 			- 🍪 Data Science & Algorithms</br>
 		</td> 
     <td valign="top" width="500px">	
